@@ -1,0 +1,1 @@
+The main component in the circuit is 8051 microcontroller. In this project 4×4 keypad is used to enter the password. The password which is entered is compared with the predefined password. If the entered password is correct then the 16X2 LCD displays "CORRECT ENTRY". If the password is wrong then the 16X2 LCD displays "DENIED!TRY AGAIN" on LCD.
